@@ -1,0 +1,4 @@
+file content to be staged by git add command
+new modification was made
+this change is used for checking -s option of git status
+added line
